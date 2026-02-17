@@ -32,8 +32,8 @@ I am a passionate developer who loves building scalable web and mobile applicati
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aniruth27&show_icons=true&theme=radical&hide_border=true" alt="Aniruth's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruth27&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aniruth27&show_icons=true&theme=radical&hide_border=true" alt="Aniruth's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aniruth27&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" width="48%" />
 </p>
 
 ---
