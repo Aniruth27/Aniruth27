@@ -2,7 +2,7 @@
 
 ### 🚀 Full-Stack Developer | Open Source Enthusiast | Tech Explorer
 
-I am a passionate developer who loves building scalable web and mobile applications. I enjoy turning complex problems into simple, elegant, and efficient code. My work spans from front-end user experiences to robust back-end systems and AI integrations.
+I love building scalable web applications. I enjoy turning complex problems into simple, elegant, and efficient code. My work spans from front-end user experiences to robust back-end systems and AI integrations.
 
 ---
 
@@ -24,7 +24,7 @@ I am a passionate developer who loves building scalable web and mobile applicati
 ### 🔭 What I'm working on
 - 🔭 **Current Focus:** Building high-performance AI-integrated web applications.
 - 🌱 **Learning:** Deepening my knowledge in System Design and LLM orchestration.
-- 👯 **Collaboration:** Looking to collaborate on open-source projects related to JavaScript/TypeScript and AI.
+- 👯 **Collaboration:** Looking to collaborate on open-source projects related to Python/JavaScript and AI.
 - 💬 **Ask me about:** React, Node.js, and why I love clean code.
 
 ---
