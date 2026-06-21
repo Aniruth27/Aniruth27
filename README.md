@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Aniruth! 👋</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Enthusiast;Tech+Explorer" alt="Roles Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Business+Systems;Tech+Explorer" alt="Roles Typing SVG" />
 
 <p>I love building scalable web applications. I enjoy turning complex problems into simple, elegant,<br>and efficient code. My work spans from front-end user experiences to robust back-end systems and AI integrations.</p>
 
